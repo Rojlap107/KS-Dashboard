@@ -1,0 +1,164 @@
+Account,Category,Amount,Company
+Water Mitigation,Income,8000,Pine Ridge Restoration
+Fire/Smoke Restoration,Income,3500,Pine Ridge Restoration
+Mold Remediation,Income,2200,Pine Ridge Restoration
+Contents / Packout,Income,1500,Pine Ridge Restoration
+Reconstruction,Income,1500,Pine Ridge Restoration
+Direct Labor (Field),Cost of Goods Sold,5800,Pine Ridge Restoration
+Payroll Burden (Field),Cost of Goods Sold,850,Pine Ridge Restoration
+Subcontractors,Cost of Goods Sold,900,Pine Ridge Restoration
+Materials & Supplies,Cost of Goods Sold,1450,Pine Ridge Restoration
+Dumpster / Disposal,Cost of Goods Sold,250,Pine Ridge Restoration
+Equipment Rental,Cost of Goods Sold,200,Pine Ridge Restoration
+Job Travel / Fuel,Cost of Goods Sold,300,Pine Ridge Restoration
+Owner Salary (Admin/GM),Expenses,1500,Pine Ridge Restoration
+Office/Admin Wages,Expenses,600,Pine Ridge Restoration
+Payroll Taxes (G&A),Expenses,180,Pine Ridge Restoration
+Rent,Expenses,900,Pine Ridge Restoration
+Utilities,Expenses,160,Pine Ridge Restoration
+Insurance - General Liability,Expenses,320,Pine Ridge Restoration
+Insurance - Workers Comp,Expenses,280,Pine Ridge Restoration
+Auto Insurance,Expenses,140,Pine Ridge Restoration
+Vehicle Expense (Non-job) - Fuel & Maint,Expenses,240,Pine Ridge Restoration
+Advertising & Marketing,Expenses,350,Pine Ridge Restoration
+Software Subscriptions,Expenses,180,Pine Ridge Restoration
+Phone & Internet,Expenses,120,Pine Ridge Restoration
+Office Supplies,Expenses,80,Pine Ridge Restoration
+Professional Fees,Expenses,150,Pine Ridge Restoration
+Bank & Merchant Fees,Expenses,90,Pine Ridge Restoration
+Training & Certifications,Expenses,60,Pine Ridge Restoration
+Miscellaneous,Expenses,100,Pine Ridge Restoration
+Water Mitigation,Income,38000,MetroRapid Restoration
+Fire/Smoke Restoration,Income,15000,MetroRapid Restoration
+Mold Remediation,Income,10000,MetroRapid Restoration
+Contents / Packout,Income,7000,MetroRapid Restoration
+Reconstruction,Income,13333,MetroRapid Restoration
+Direct Labor (Field),Cost of Goods Sold,30000,MetroRapid Restoration
+Payroll Burden (Field),Cost of Goods Sold,4500,MetroRapid Restoration
+Subcontractors,Cost of Goods Sold,6500,MetroRapid Restoration
+Materials & Supplies,Cost of Goods Sold,8000,MetroRapid Restoration
+Equipment Rental,Cost of Goods Sold,1500,MetroRapid Restoration
+Dumpster / Disposal,Cost of Goods Sold,900,MetroRapid Restoration
+Job Travel / Fuel,Cost of Goods Sold,1300,MetroRapid Restoration
+Storage (Contents),Cost of Goods Sold,700,MetroRapid Restoration
+Management / Admin Payroll,Expenses,9000,MetroRapid Restoration
+Payroll Taxes & Benefits (G&A),Expenses,2000,MetroRapid Restoration
+Rent,Expenses,2500,MetroRapid Restoration
+Utilities,Expenses,450,MetroRapid Restoration
+Insurance - General Liability,Expenses,900,MetroRapid Restoration
+Insurance - Workers Comp,Expenses,1200,MetroRapid Restoration
+Auto Insurance,Expenses,650,MetroRapid Restoration
+Vehicle Expense - Fuel & Maint,Expenses,2200,MetroRapid Restoration
+Advertising & Marketing,Expenses,2800,MetroRapid Restoration
+Software Subscriptions,Expenses,650,MetroRapid Restoration
+Phone & Internet,Expenses,350,MetroRapid Restoration
+Office Supplies,Expenses,250,MetroRapid Restoration
+Professional Fees,Expenses,600,MetroRapid Restoration
+Dues & Subscriptions,Expenses,150,MetroRapid Restoration
+Bank & Merchant Fees,Expenses,420,MetroRapid Restoration
+Bad Debt,Expenses,500,MetroRapid Restoration
+Training & Certifications,Expenses,250,MetroRapid Restoration
+Depreciation,Expenses,700,MetroRapid Restoration
+Miscellaneous,Expenses,400,MetroRapid Restoration
+Water Mitigation,Income,105000,Guardian Restore Group
+Fire/Smoke Restoration,Income,45000,Guardian Restore Group
+Mold Remediation,Income,28000,Guardian Restore Group
+Contents / Packout,Income,22000,Guardian Restore Group
+Reconstruction,Income,50000,Guardian Restore Group
+Direct Labor (Field),Cost of Goods Sold,75000,Guardian Restore Group
+Payroll Burden (Field),Cost of Goods Sold,12500,Guardian Restore Group
+Subcontractors,Cost of Goods Sold,22000,Guardian Restore Group
+Materials & Supplies,Cost of Goods Sold,25000,Guardian Restore Group
+Equipment Rental,Cost of Goods Sold,3500,Guardian Restore Group
+Dumpster / Disposal,Cost of Goods Sold,2500,Guardian Restore Group
+Job Travel / Fuel,Cost of Goods Sold,4000,Guardian Restore Group
+Storage (Contents),Cost of Goods Sold,2000,Guardian Restore Group
+Management Payroll,Expenses,20000,Guardian Restore Group
+Office/Admin Payroll,Expenses,10000,Guardian Restore Group
+Payroll Taxes & Benefits (G&A),Expenses,7500,Guardian Restore Group
+Rent,Expenses,6000,Guardian Restore Group
+Utilities,Expenses,1200,Guardian Restore Group
+Insurance - General Liability,Expenses,2500,Guardian Restore Group
+Insurance - Workers Comp,Expenses,3500,Guardian Restore Group
+Auto Insurance,Expenses,2200,Guardian Restore Group
+Vehicle Expense - Fuel & Maint,Expenses,6500,Guardian Restore Group
+Advertising & Marketing,Expenses,6000,Guardian Restore Group
+Software Subscriptions,Expenses,1800,Guardian Restore Group
+Phone & Internet,Expenses,900,Guardian Restore Group
+Office Supplies,Expenses,700,Guardian Restore Group
+Professional Fees,Expenses,3100,Guardian Restore Group
+Recruiting,Expenses,1200,Guardian Restore Group
+Bank & Merchant Fees,Expenses,1200,Guardian Restore Group
+Bad Debt,Expenses,1500,Guardian Restore Group
+Training & Certifications,Expenses,800,Guardian Restore Group
+Travel & Meals,Expenses,900,Guardian Restore Group
+Depreciation,Expenses,2800,Guardian Restore Group
+Interest Expense,Expenses,1000,Guardian Restore Group
+Water Mitigation,Income,200000,Summit Regional Restoration
+Fire/Smoke Restoration,Income,85000,Summit Regional Restoration
+Mold Remediation,Income,55000,Summit Regional Restoration
+Contents / Packout,Income,45000,Summit Regional Restoration
+Reconstruction,Income,115000,Summit Regional Restoration
+Direct Labor (Field),Cost of Goods Sold,140000,Summit Regional Restoration
+Payroll Burden (Field),Cost of Goods Sold,25000,Summit Regional Restoration
+Subcontractors,Cost of Goods Sold,50000,Summit Regional Restoration
+Materials & Supplies,Cost of Goods Sold,58000,Summit Regional Restoration
+Equipment Rental,Cost of Goods Sold,7000,Summit Regional Restoration
+Dumpster / Disposal,Cost of Goods Sold,5000,Summit Regional Restoration
+Job Travel / Fuel,Cost of Goods Sold,8000,Summit Regional Restoration
+Storage (Contents),Cost of Goods Sold,4000,Summit Regional Restoration
+Executive/Management Payroll,Expenses,35000,Summit Regional Restoration
+Office/Admin Payroll,Expenses,18000,Summit Regional Restoration
+Payroll Taxes & Benefits (G&A),Expenses,16000,Summit Regional Restoration
+Rent,Expenses,12000,Summit Regional Restoration
+Utilities,Expenses,2200,Summit Regional Restoration
+Insurance - General Liability,Expenses,4500,Summit Regional Restoration
+Insurance - Workers Comp,Expenses,7000,Summit Regional Restoration
+Auto Insurance,Expenses,4500,Summit Regional Restoration
+Vehicle Expense - Fuel & Maint,Expenses,14000,Summit Regional Restoration
+Advertising & Marketing,Expenses,12000,Summit Regional Restoration
+Software Subscriptions,Expenses,3500,Summit Regional Restoration
+Phone & Internet,Expenses,1600,Summit Regional Restoration
+Office Supplies,Expenses,1400,Summit Regional Restoration
+Professional Fees,Expenses,6500,Summit Regional Restoration
+Bank & Merchant Fees,Expenses,2800,Summit Regional Restoration
+Bad Debt,Expenses,3000,Summit Regional Restoration
+Training & Certifications,Expenses,1800,Summit Regional Restoration
+Travel & Meals,Expenses,2000,Summit Regional Restoration
+Other G&A,Expenses,3200,Summit Regional Restoration
+Depreciation,Expenses,6500,Summit Regional Restoration
+Interest Expense,Expenses,3000,Summit Regional Restoration
+Water Mitigation,Income,320000,National Response Restoration
+Fire/Smoke Restoration,Income,150000,National Response Restoration
+Mold Remediation,Income,95000,National Response Restoration
+Contents / Packout,Income,70000,National Response Restoration
+Reconstruction,Income,198333,National Response Restoration
+Direct Labor (Field),Cost of Goods Sold,200000,National Response Restoration
+Payroll Burden (Field),Cost of Goods Sold,40000,National Response Restoration
+Subcontractors,Cost of Goods Sold,110000,National Response Restoration
+Materials & Supplies,Cost of Goods Sold,105000,National Response Restoration
+Equipment Rental,Cost of Goods Sold,13000,National Response Restoration
+Dumpster / Disposal,Cost of Goods Sold,10000,National Response Restoration
+Job Travel / Fuel,Cost of Goods Sold,17000,National Response Restoration
+Storage (Contents),Cost of Goods Sold,9000,National Response Restoration
+Other Job Costs,Cost of Goods Sold,11533,National Response Restoration
+Executive/Management Payroll,Expenses,50000,National Response Restoration
+Office/Admin Payroll,Expenses,28000,National Response Restoration
+Payroll Taxes & Benefits (G&A),Expenses,28000,National Response Restoration
+Rent,Expenses,18000,National Response Restoration
+Utilities,Expenses,3500,National Response Restoration
+Insurance - General Liability,Expenses,7000,National Response Restoration
+Insurance - Workers Comp,Expenses,13000,National Response Restoration
+Auto Insurance,Expenses,8000,National Response Restoration
+Vehicle Expense - Fuel & Maint,Expenses,25000,National Response Restoration
+Safety & IT,Expenses,4500,National Response Restoration
+Advertising & Marketing,Expenses,18000,National Response Restoration
+Software Subscriptions,Expenses,7000,National Response Restoration
+Phone & Internet,Expenses,3000,National Response Restoration
+Office & Other G&A,Expenses,4800,National Response Restoration
+Professional Fees,Expenses,6000,National Response Restoration
+"People, Training & Travel",Expenses,9500,National Response Restoration
+Bank & Merchant Fees,Expenses,4500,National Response Restoration
+Bad Debt,Expenses,5000,National Response Restoration
+Depreciation,Expenses,10000,National Response Restoration
+Interest Expense,Expenses,5000,National Response Restoration
